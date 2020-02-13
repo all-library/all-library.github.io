@@ -5,4 +5,5 @@ body {
 
 div.container {
  background-color: gainsboro;
+ height: 150px;
 }
