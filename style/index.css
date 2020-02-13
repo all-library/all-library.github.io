@@ -1,3 +1,8 @@
-html, body {
+body {
  text-align: center; 
+ background-color: lightgray; 
+}
+
+div#container {
+ background-color: gray;
 }
