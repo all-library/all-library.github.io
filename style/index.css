@@ -1,8 +1,8 @@
 body {
  text-align: center; 
- background-color: lightgray; 
+ background-color: dimgray; 
 }
 
-div#container {
- background-color: gray;
+div.container {
+ background-color: gainsboro;
 }
