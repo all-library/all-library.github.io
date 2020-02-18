@@ -3,7 +3,7 @@ var d;
 var dtx; 
 var cyr;
 var con;
-con = document.getElementByClass("container");
+con = document.getElementsByClass("container");
 cyr = Date.getFullYear();
 d = document.createElement("p");
 dtx = "&copy; " + cyr;
