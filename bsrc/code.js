@@ -1,1 +1,1 @@
-document.write("&copy; " + Date.getFullYear());
+document.write(Date.getFullYear());
