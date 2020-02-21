@@ -12,16 +12,16 @@
       <description>The Arkansas Little Library Project is an organization located in Arkansas, that hopes to place books in locations in Arkansas, that don't have many libraries, books, or content. Or if homeowners and communities don't have a little library and they want one.</description>
     </item>
     <item>
-      <guid>https://all-library.github.io/staff.html</guid>
-      <title>A.L.L STAFF</title>
-      <link>https://all-library.github.io/staff.html</link>
-      <description>This is the complete list for the official Staff of the Arkansas Little Library Project(A.L.L).</description>
-    </item>
-    <item>
       <guid>https://all-library.github.io/contact.html</guid>
       <title>Contact Partners|Associations</title>
       <link>https://all-library.github.io/contact.html</link>
       <description>The Arkansas Little Library Project's official online directory for contacting us and our partners and associations.</description>
+    </item>
+    <item>
+      <guid>https://all-library.github.io/staff.html</guid>
+      <title>A.L.L STAFF</title>
+      <link>https://all-library.github.io/staff.html</link>
+      <description>This is the complete list for the official Staff of the Arkansas Little Library Project(A.L.L).</description>
     </item>
     <item>
       <guid>https://all-library.github.io/index.html</guid>
@@ -31,5 +31,5 @@
     </item>
   </channel>
 </rss>
-<!--<guid value="36ef8055-26ae-4216-a564-4f0a910f0f0d" />-->
+<!--<guid value="a222c3cb-b340-4068-972c-53da38576e50" />-->
 <!--Created using XmlSitemapGenerator.org - Free HTML, RSS and XML sitemap generator-->
